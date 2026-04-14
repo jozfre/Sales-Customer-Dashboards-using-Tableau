@@ -6,6 +6,10 @@ This project outlines the specifications and implementation of two Tableau dashb
 
 📊 Sales Dashboard
 
+
+<img width="1203" height="801" alt="image" src="https://github.com/user-attachments/assets/7c2772c1-fd5a-4cea-92bb-2d6ea777f80b" />
+
+
 🎯 Purpose
 
 Provide an overview of sales metrics and trends to analyze year‑over‑year performance and identify key sales patterns.
@@ -21,6 +25,10 @@ Provide an overview of sales metrics and trends to analyze year‑over‑year pe
     Weekly Trends: Weekly sales and profit with averages, highlighting above/below‑average weeks.
 
 👥 Customer Dashboard
+
+
+<img width="1188" height="789" alt="image" src="https://github.com/user-attachments/assets/df8e260d-ea1e-47a6-bacb-7363f50f9bda" />
+
 
 🎯 Purpose
 
